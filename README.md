@@ -1,10 +1,13 @@
 # TheirdPerson-Controller Using CSharp
 
+To DO :
 
       Build a TheirdPersonController (action/combat/parkour):
       The PlayerController must use In-Unity CharacterController class.
       This Controller will have the abilities to do some crazy parkour mechanics, magic-like abillies and cool combat system.
       Also this Project will be in a NameSpace for later use in a bigger project...
+      
+TO Do ?:
 
       Camera Controller:
       Just a simple camera controller to do ma damn work, for now...
